@@ -117,7 +117,6 @@ Defined in `server.py`:
 ├── client.py           # FTP client
 ├── server.py           # FTP server with TLS and threading
 ├── certificate.crt     # SSL certificate (generate manually)
-├── private.key         # SSL private key (generate manually)
 ```
 
 ---
